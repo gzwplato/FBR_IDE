@@ -1,0 +1,2 @@
+D:\repo\FBR_IDE\hello2.bas(1) error 87: Var-len strings cannot be initialized in 'dim shared AS string n = "hello"'
+D:\repo\FBR_IDE\hello2.bas(2) error 4: Duplicated definition, found 'integer' in 'dim shared integer inte = 2344555'

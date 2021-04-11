@@ -23,6 +23,8 @@
 declare function GetCharIndexFromPoint(Byval hWindow as HWND, byval x as long, byval y as long) as long
 declare Function RichEdit_GetLastVisibleLine (BYVAL hRichEdit AS HWND) AS LONG
 
+
+
 SUB txtfile(f AS STRING, t as string)
 	
 '	DIM AS STRING buffer
